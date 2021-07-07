@@ -1,4 +1,4 @@
-##Результаты бенчмарков
+## Результаты бенчмарков
 
 litespeed 
 
@@ -24,14 +24,14 @@ bench.php
     ------------------------  
      Total 0.594  
 
-##ttfb homepage
-    ![alt lite-home](assets/lite-home.png "lite-home")
+## ttfb homepage
+   ![alt lite-home](assets/lite-home.png "lite-home")
 
-##ttfb category
-    ![alt lite-category](assets/lite-category.png "lite-category")
+## ttfb category
+   ![alt lite-category](assets/lite-category.png "lite-category")
 
-##ttfb product
-    ![alt lite-product](assets/lite-product.png "lite-product")
+## ttfb product
+   ![alt lite-product](assets/lite-product.png "lite-product")
 
 nginx
 
@@ -57,11 +57,11 @@ bench.php
     ------------------------  
     Total 0.547  
 
-##ttfb homepage
-    ![alt nginx-home](assets/nginx-home.png "nginx-home")
+## ttfb homepage
+  ![alt nginx-home](assets/nginx-home.png "nginx-home")
 
-##ttfb category
-    ![alt nginx-category](assets/nginx-category.png "nginx-category")
+## ttfb category
+   ![alt nginx-category](assets/nginx-category.png "nginx-category")
 
-##ttfb product
-    ![alt nginx-product](assets/nginx-product.png "nginx-product")
+## ttfb product
+   ![alt nginx-product](assets/nginx-product.png "nginx-product")
