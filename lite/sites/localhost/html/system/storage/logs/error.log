@@ -1,0 +1,15 @@
+2021-07-07 11:10:46 - PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /var/www/vhosts/localhost/html/system/library/db/mysqli.php on line 7
+2021-07-07 11:10:46 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /var/www/vhosts/localhost/html/system/library/db/mysqli.php on line 10
+2021-07-07 11:10:46 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /var/www/vhosts/localhost/html/system/library/db/mysqli.php on line 10
+2021-07-07 11:10:46 - PHP Notice:  Undefined variable: mysql in /var/www/vhosts/localhost/html/install/controller/install/step_3.php on line 281
+2021-07-07 11:10:46 - PHP Notice:  Trying to get property 'connect_error' of non-object in /var/www/vhosts/localhost/html/install/controller/install/step_3.php on line 281
+2021-07-07 11:11:25 - PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /var/www/vhosts/localhost/html/system/library/db/mysqli.php on line 7
+2021-07-07 11:11:25 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /var/www/vhosts/localhost/html/system/library/db/mysqli.php on line 10
+2021-07-07 11:11:25 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /var/www/vhosts/localhost/html/system/library/db/mysqli.php on line 10
+2021-07-07 11:11:25 - PHP Notice:  Undefined variable: mysql in /var/www/vhosts/localhost/html/install/controller/install/step_3.php on line 281
+2021-07-07 11:11:25 - PHP Notice:  Trying to get property 'connect_error' of non-object in /var/www/vhosts/localhost/html/install/controller/install/step_3.php on line 281
+2021-07-07 11:11:33 - PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /var/www/vhosts/localhost/html/system/library/db/mysqli.php on line 7
+2021-07-07 11:11:33 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /var/www/vhosts/localhost/html/system/library/db/mysqli.php on line 10
+2021-07-07 11:11:33 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /var/www/vhosts/localhost/html/system/library/db/mysqli.php on line 10
+2021-07-07 11:11:33 - PHP Notice:  Undefined variable: mysql in /var/www/vhosts/localhost/html/install/controller/install/step_3.php on line 281
+2021-07-07 11:11:33 - PHP Notice:  Trying to get property 'connect_error' of non-object in /var/www/vhosts/localhost/html/install/controller/install/step_3.php on line 281
